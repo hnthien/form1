@@ -1,5 +1,5 @@
 body {
-    background-image: url("/photo.jpg"), linear-gradient(to right, rgb(168, 91, 100) 0%, rgb(40, 38, 82) 100%);
+    background-image: url("image/photo.jpg"), linear-gradient(to right, rgb(168, 91, 100) 0%, rgb(40, 38, 82) 100%);
     background-color: rgb(0, 0, 0, 0.5);
     background-repeat: no-repeat, repeat;
     background-blend-mode: overlay;
@@ -12,7 +12,7 @@ body {
     margin-top: 40px;
     width: 400px;
     height: 550px;
-    background-image: url("/photo1.jpg"), linear-gradient(145deg, rgb(168, 91, 100) 0%, rgb(40, 38, 82) 100%);
+    background-image: url("image/photo1.jpg"), linear-gradient(145deg, rgb(168, 91, 100) 0%, rgb(40, 38, 82) 100%);
     background-blend-mode: overlay;
     box-shadow: 0 1px 5.3px rgba(0, 0, 0, 0.312), 0 3.4px 17.9px rgba(0, 0, 0, 0.553), 0 15px 80px rgba(0, 0, 0, 0.98);
 }
